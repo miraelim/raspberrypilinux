@@ -1,1 +1,0 @@
-#define SIGNAL 30
